@@ -23,12 +23,14 @@ body {
     align-self: center;
     margin: 5px;
     color: #781BAA;
+    order: -1;
   }
   
   .emoji h2 {
     margin: 0;
     border-bottom: 2px solid #ccc;
     color: #222; /* Changed heading color */
+    font-size: 20px;
   }
   
   .emoji a {
